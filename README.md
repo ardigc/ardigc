@@ -14,6 +14,8 @@ Cuento con un año de experiencia en el desarrollo de aplicaciones web modernas 
 - **Redux**: Como parte de mi flujo de trabajo, utilizo Redux para gestionar el estado global de mis aplicaciones y mantener la coherencia en la gestión de datos.
 - **Tailwind CSS**: Conozco y utilizo Tailwind CSS para crear interfaces modernas y atractivas, manteniendo la flexibilidad y la capacidad de personalización.
 - **Git**: Utilizo Git como herramienta principal para el control de versiones y la colaboración en proyectos.
+- **PostgreSQL**: También tengo experiencia en el manejo de bases de datos relacionales y he trabajado con PostgreSQL para el almacenamiento y gestión eficiente de datos en diversos proyectos.
+
 
 ## Colaboración y contacto
 Me encanta colaborar con equipos diversos y estoy siempre abierto/a a nuevas oportunidades emocionantes. Si estás interesado/a en trabajar juntos o simplemente quieres charlar sobre desarrollo frontend, no dudes en contactarme.
