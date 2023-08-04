@@ -18,7 +18,7 @@ Cuento con un año de experiencia en el desarrollo de aplicaciones web modernas 
 
 
 ## Colaboración y contacto
-Me encanta colaborar con equipos diversos y estoy siempre abierto/a a nuevas oportunidades emocionantes. Si estás interesado/a en trabajar juntos o simplemente quieres charlar sobre desarrollo frontend, no dudes en contactarme.
+Me encanta colaborar con equipos diversos y estoy siempre abierto a nuevas oportunidades emocionantes. Si estás interesado/a en trabajar juntos o simplemente quieres charlar sobre desarrollo frontend, no dudes en contactarme.
 
 ¡Gracias por visitar mi perfil de GitHub y espero que encuentres algo interesante aquí!
 
